@@ -1,11 +1,14 @@
-
 <h1 align="center">Hi 👋, I'm Ian :D</h1>
 <h3 align="center">A passionate Software Engineer, Data scientist and Game developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foxuf&label=Profile%20views&color=0e75b6&style=flat" alt="foxuf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foxuf" alt="foxuf" /></a> </p>
+- 🔭 I’m currently working on **My first big videogame**
+
+- 🌱 I’m currently learning **Django Framework and Angular**
+
+- 💬 Ask me about **Videogames :D**
 
 - 📫 How to reach me **iandfox@outlook.com**
 
