@@ -1,3 +1,5 @@
+![Dark Neon Simple Futuristic UIUX Designer LinkedIn Banner](https://github.com/FoxuF/FoxuF/assets/52721470/6d13491f-0a3a-40e6-9181-1478030cd49e)
+
 <h1 align="center">Hi 👋, I'm Ian :D</h1>
 <h3 align="center">A passionate Software Engineer, Data scientist and Game developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
